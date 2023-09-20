@@ -1,0 +1,1 @@
+Included are exercises from Chris Pine's "Learn to Code: 2nd Edition".
