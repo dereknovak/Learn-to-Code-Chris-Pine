@@ -1,1 +1,1 @@
-Included are notes and exercises from Chris Pine's "Learn to Code: 2nd Edition". I am using this material to supplement the education I'm receive from Launch School with the intent of strengthening my Ruby fundamentals!
+Included are notes and exercises from Chris Pine's "Learn to Code: 2nd Edition". I am using this material to supplement lessons from Launch School with the intent of strengthening my Ruby fundamentals!
