@@ -1,1 +1,1 @@
-Included are notes and exercises from Chris Pine's "Learn to Program: 2nd Edition". I am using this material to supplement lessons from Launch School with the intent of strengthening my Ruby fundamentals!
+Included are notes and exercises from Chris Pine's "Learn to Program, Second Edition". I am using this material to supplement lessons from Launch School with the intent of strengthening my Ruby fundamentals!
